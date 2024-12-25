@@ -11,7 +11,7 @@ STUDENTS: list[dict[str, str|list[dict[str, str|float]]]]=[]
         "name":"Nguyen Van A,
         "id":"1",
         "dob":"2000-01-01",
-        "marks": [
+        "marks": 
             {
                 "course_id":"1",
                 "mark":10.0
